@@ -6517,8 +6517,7 @@ http://175.178.179.152:1888/PLTV/play.php?id=tu2l5SRCaI&uid=MK4K4VVY2RY
 http://175.178.179.152:1888/PLTV/play.php?id=n1O2bLtRxy&uid=MK4K4VVY2RY
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕体育赛事丨IPV4",咪咕直播
 http://175.178.179.152:1888/PLTV/play.php?id=Rwr443tvy2&uid=MK4K4VVY2RY
-#EXTINF:-1 group-title="咪咕体育赛事丨IPV6",IPV6必看说明
-http://175.178.179.152:1888/PLTV/play.php?id=ZnkoMBPkse&uid=MK4K4VVY2RY
+
 #EXTINF:-1 group-title="咪咕体育赛事丨IPV6",咪咕体育 8M
 http://175.178.179.152:1888/PLTV/play.php?id=OF4upXMVau&uid=MK4K4VVY2RY
 #EXTINF:-1 group-title="咪咕体育赛事丨IPV6",咪咕体育 8M
@@ -6533,8 +6532,7 @@ http://175.178.179.152:1888/PLTV/play.php?id=cWB4Sty9z2&uid=MK4K4VVY2RY
 http://175.178.179.152:1888/PLTV/play.php?id=CswICDGSjW&uid=MK4K4VVY2RY
 #EXTINF:-1 group-title="咪咕体育赛事丨IPV6",咪咕体育-34
 http://175.178.179.152:1888/PLTV/play.php?id=uIdI21xQmn&uid=MK4K4VVY2RY
-#EXTINF:-1 group-title="NewTV系列丨IPV6",IPV6必看说明
-http://175.178.179.152:1888/PLTV/play.php?id=ZnkoMBPkse&uid=MK4K4VVY2RY
+
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="http://m3u8.serv00.net/epg.php?c=/logo/优漫卡通.png" group-title="NewTV系列丨IPV6",优漫卡通
 http://175.178.179.152:1888/PLTV/play.php?id=DbEzVjRW7E&uid=MK4K4VVY2RY
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="http://m3u8.serv00.net/epg.php?c=/logo/哈哈炫动.png" group-title="NewTV系列丨IPV6",哈哈炫动
@@ -6625,8 +6623,7 @@ http://175.178.179.152:1888/PLTV/play.php?id=35BmAHAsVd&uid=MK4K4VVY2RY
 http://175.178.179.152:1888/PLTV/play.php?id=qxB6P4RcQM&uid=MK4K4VVY2RY
 #EXTINF:-1 group-title="NewTV系列丨IPV6",武术世界
 http://175.178.179.152:1888/PLTV/play.php?id=Vc6Jhvh9d0&uid=MK4K4VVY2RY
-#EXTINF:-1 group-title="iHOT系列丨IPV6",IPV6必看说明
-http://175.178.179.152:1888/PLTV/play.php?id=ZnkoMBPkse&uid=MK4K4VVY2RY
+
 #EXTINF:-1 tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="http://m3u8.serv00.net/epg.php?c=logo/爱电竞.png" group-title="iHOT系列丨IPV6",爱电竞
 http://175.178.179.152:1888/PLTV/play.php?id=CxMBpl2E72&uid=MK4K4VVY2RY
 #EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="http://m3u8.serv00.net/epg.php?c=logo/爱谍战.png" group-title="iHOT系列丨IPV6",爱谍战
